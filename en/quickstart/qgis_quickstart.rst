@@ -55,7 +55,7 @@ off.
         :scale: 70 %
         :alt: Map in QGIS
 
-#. Try dragging layers up and down in the legend and see how that
+#. Try dragging layers up and down in the Layers tree and see how that
    affects visibility of the layers below.
 
 #. Have a look at the tools on the tool bar. Try panning, zooming in,
